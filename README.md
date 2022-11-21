@@ -1,8 +1,28 @@
-<h1 align="center">Hi 👋, I'm Rohan!</h1>
+<h1 align="center">Hi 👋, I'm Rohan.</h1>
 <h3 align="center">I'm a Machine Learning, Data Science and Software Development enthusiast.</h3>
 
-## Experience
-endjen
+# Experience
+
+## NMIMS University (Researcher): October 2021 - March 2022.
+
+## University of Sussex (Teaching Assistant): October 2021 - January 2022.
+
+## Visio Ingenii (Research Assistant & Software Developer Intern): May 2020 - April 2022.
+
+## Visio Ingenii (Project intern): May 2019 - July 2019.
+
+# Education
+
+## Bachelors of Technology in Computer Engineering: NMIMS University, India.
+
+## Masters of Science (M.Sc) in Artificial Intelligence: University of Sussex, United Kingdom.
+
+
+# Research papers
+
+1. [PixAdapt: A novel approach to adaptive image encryption](https://doi.org/10.1016/j.chaos.2022.112628)
+
+2. [PixJS: A novel chaos-based approach for image encryption](http://doi.org/10.1002/cpe.6990)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohantuli7&label=Profile%20views&color=0e75b6&style=flat" alt="rohantuli7" /> </p>
