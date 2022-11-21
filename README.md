@@ -3,19 +3,19 @@
 
 # Experience
 
-## NMIMS University (Researcher): October 2021 - March 2022.
+#### NMIMS University (Researcher): October 2021 - March 2022.
 
-## University of Sussex (Teaching Assistant): October 2021 - January 2022.
+#### University of Sussex (Teaching Assistant): October 2021 - January 2022.
 
-## Visio Ingenii (Research Assistant & Software Developer Intern): May 2020 - April 2022.
+#### Visio Ingenii (Research Assistant & Software Developer Intern): May 2020 - April 2022.
 
-## Visio Ingenii (Project intern): May 2019 - July 2019.
+#### Visio Ingenii (Project intern): May 2019 - July 2019.
 
 # Education
 
-## Bachelors of Technology in Computer Engineering: NMIMS University, India.
+#### Bachelors of Technology in Computer Engineering: NMIMS University, India.
 
-## Masters of Science (M.Sc) in Artificial Intelligence: University of Sussex, United Kingdom.
+#### Masters of Science (M.Sc) in Artificial Intelligence: University of Sussex, United Kingdom.
 
 
 # Research papers
