@@ -25,7 +25,7 @@
 2. [PixJS: A novel chaos-based approach for image encryption](http://doi.org/10.1002/cpe.6990)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohantuli7&label=Profile%20views&color=0e75b6&style=flat" alt="rohantuli7" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohantuli7&label=Profile%20views&color=0e75b6&style=flat" alt="rohantuli7" /> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
